@@ -3,7 +3,7 @@
 I have uploaded the screenshots of the following pages
 - Home
 - About Us
-- Cintact Us
+- Contact Us
 
 Below is the screenshot of **Home page.**
 ![Home](https://github.com/KratikaNath/Project/blob/master/app/images/Home.png "Optional Text")
