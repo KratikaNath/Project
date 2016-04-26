@@ -14,3 +14,4 @@ Below is the screenshot of **About Us.**
 Below is the screenshot of **Contact Us.**
 ![Contact Us](https://github.com/KratikaNath/Project/blob/master/app/images/ContactUs.png)
 
+*Same project is done using AngularJs. Here is the link [Project-2](https://github.com/KratikaNath/Project2-AngularJS)
